@@ -1,0 +1,95 @@
+annotated-types==0.6.0
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4==4.12.2
+blis==0.7.11
+bs4==0.0.1
+catalogue==2.0.10
+certifi==2023.11.17
+charset-normalizer==3.3.2
+click==8.1.7
+cloudpathlib==0.16.0
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+comm @ file:///C:/b/abs_1419earm7u/croot/comm_1671231131638/work
+confection==0.1.4
+contourpy==1.1.1
+cycler==0.12.1
+cymem==2.0.8
+debugpy @ file:///C:/b/abs_c0y1fjipt2/croot/debugpy_1690906864587/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+et-xmlfile==1.1.0
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fonttools==4.45.1
+funcy==2.0
+future==0.18.3
+gensim==4.3.2
+idna==3.6
+importlib-metadata @ file:///C:/b/abs_20ndzb2j6v/croot/importlib-metadata_1678997085534/work
+importlib-resources==6.1.1
+ipykernel @ file:///C:/b/abs_07rkft_vaz/croot/ipykernel_1691121700587/work
+ipython @ file:///C:/b/abs_254uk73z5b/croot/ipython_1691532131313/work
+jedi @ file:///C:/ci/jedi_1644315425835/work
+jieba==0.42.1
+Jinja2==3.1.2
+joblib==1.3.2
+jupyter_client @ file:///C:/b/abs_a6h3c8hfdq/croot/jupyter_client_1699455939372/work
+jupyter_core @ file:///C:/b/abs_c769pbqg9b/croot/jupyter_core_1698937367513/work
+kiwisolver==1.4.5
+langcodes==3.3.0
+MarkupSafe==2.1.3
+matplotlib==3.7.4
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934035815/work
+murmurhash==1.0.10
+nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
+nltk==3.8.1
+numexpr==2.8.6
+numpy==1.24.4
+OpenCC==1.1.7
+openpyxl==3.1.2
+packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
+pandas==2.0.3
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==10.1.0
+platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
+preshed==3.0.9
+prompt-toolkit @ file:///C:/b/abs_6coz5_9f2s/croot/prompt-toolkit_1672387908312/work
+psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pydantic==2.5.2
+pydantic_core==2.14.5
+Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
+pyLDAvis==3.2.2
+pyparsing==3.1.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2023.3.post1
+pywin32==305.1
+pyzmq @ file:///C:/b/abs_655zk4a3s8/croot/pyzmq_1686601465034/work
+regex==2023.10.3
+requests==2.31.0
+scikit-learn==1.3.2
+scipy==1.10.1
+seaborn==0.13.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smart-open==6.4.0
+soupsieve==2.5
+spacy==3.7.2
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+srsly==2.4.8
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+thinc==8.2.1
+threadpoolctl==3.2.0
+tornado @ file:///C:/b/abs_0cbrstidzg/croot/tornado_1696937003724/work
+tqdm==4.66.1
+traitlets @ file:///C:/b/abs_e5m_xjjl94/croot/traitlets_1671143896266/work
+typer==0.9.0
+typing_extensions @ file:///C:/b/abs_213vg2cd1l/croot/typing_extensions_1690297804941/work
+tzdata==2023.3
+urllib3==2.1.0
+wasabi==1.1.2
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+weasel==0.3.4
+wordcloud==1.9.2
+xlrd==2.0.1
+zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
